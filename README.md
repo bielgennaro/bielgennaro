@@ -19,5 +19,5 @@
   
   <div>
   <h2>Stay in contact with me</h2>
-  <a href="https://www.linkedin.com/in/gabriel-zirondi-0347b0254/"><img align="center" alt height="40" width="50"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-zirondi-0347b0254/" target:"_blank"><img align="center" alt height="40" width="50"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   </div>
