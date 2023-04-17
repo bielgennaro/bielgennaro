@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Gabriel, atualmente resido no Paraná e sou estudante de Analise e Desenvolvimento de sistemas, também gosto muito de estudar em casa no conforto do meu quarto, utilizo o GitHub como uma forma de portfólio, aqui você vai encontrar tanto projetos pessoais como projetos que realizei acompanhado de outros devs. Meu foco atual esta sendo em aplicações <strong>Back End</strong>.<br>
+   Olá! me chamo Gabriel, atualmente resido no Paraná e sou estudante de Analise e Desenvolvimento de sistemas, eu gosto muito de estudar em casa no conforto do meu quarto sendo assim, utilizo o GitHub como uma forma de portfólio, aqui você vai encontrar tanto projetos pessoais como projetos que realizei acompanhado de outros devs. Meu foco atual esta sendo em aplicações <strong>Back End</strong>.<br>
 </p>
 
 <p align="left">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💌 Sinta-se a bem-vindo para entrar em contato comigo por alguma dessas formas: ⤵️
+  💌 Sinta-se bem-vindo para entrar em contato comigo por alguma dessas formas: ⤵️
 </p>
 
 <p align="left">
