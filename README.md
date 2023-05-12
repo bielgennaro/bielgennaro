@@ -12,4 +12,4 @@ Hello! my name is Gabriel and I'm a Systems Analysis and Development student pas
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bielgennaro&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bielgennaro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=bielgennaro&icon=2&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bielgennaro&label=Profile%20Views&color=1&icon=7&pretty=true)](https://visitcount.itsvg.in)
