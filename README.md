@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, TypeScript, JavaScript, React and Docker!**
+- 🔭 I’m currently working on **Java, TypeScript, JavaScript and React**
 
 - 🌱 I’m currently learning **how to be a good full-stack dev, like a jedi!!**
 
