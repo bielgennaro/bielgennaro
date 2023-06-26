@@ -26,9 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, TypeScript, JavaScript and React**
+- 🔭 I’m currently working on **Java, Typescript, Javascript and Nodejs**
 
-- 🌱 I’m currently learning **how to be a good full-stack dev, like a jedi!!**
+- 🌱 I’m currently learning **how to be a good backend dev, like a jedi!!**
 
 - ☁️ I've keen interest in cloud computing. So,I'm pretending to learn **AWS**
 
