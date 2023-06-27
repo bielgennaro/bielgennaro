@@ -26,13 +26,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, Typescript, Javascript and Nodejs**
+- 🔭 I’m currently working on **Java, Typescript, Javascript, Nodejs and React applications!**
 
-- 🌱 I’m currently learning **how to be a good backend dev, like a jedi!!**
+- 🌱 I’m a backend dev currently learning **how to be a good fullstack dev, like a jedi!!**
 
 - ☁️ I've keen interest in cloud computing. So,I'm pretending to learn **AWS**
 
-- 💬 Ask me about **Anything**, I'll do my best to help you
+- 💬 Ask me about Anything, I'll do my best to help you
 
 - 📫 Feel free to reach me out **zirondigabriel@gmail.com**
 <!--Intro end-->
