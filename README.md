@@ -13,7 +13,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">It works on my machine!</h2></summary>
+    <summary><h3 style="display: inline-block">It works on my machine!</h3></summary>
   </ul>
 </div>
 
@@ -23,7 +23,7 @@
 
 - 🌱 I’m a backend dev currently learning **how to be a good fullstack dev, like a jedi!!**
 
-- ☁️ I've keen interest in cloud computing. So,I'm pretending to learn **AWS**
+- ☁️ I've keen interest in mobile development. So,I'm currently learning **React Native**
 
 - 💬 Ask me about Anything, I'll do my best to help you
 
