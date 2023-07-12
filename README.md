@@ -23,7 +23,7 @@
 
 - 🌱 I’m a backend dev currently learning **how to be a good fullstack dev, like a jedi!!**
 
-- ☁️ I've keen interest in mobile development. So,I'm currently learning **React Native**
+- ☁️ I've keen interest in mobile development. So, I'm currently learning **React Native**
 
 - 💬 Ask me about Anything, I'll do my best to help you
 
