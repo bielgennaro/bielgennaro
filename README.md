@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, Typescript, Javascript, Nodejs and React applications!**
+- 🔭 I’m currently working on **C#, Typescript, Javascript, Nodejs and React applications!**
 
 - 🌱 I’m a backend dev currently learning **how to be a good fullstack dev, like a jedi!!**
 
