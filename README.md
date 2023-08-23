@@ -17,6 +17,12 @@
   </ul>
 </div>
 
+To connect with me, open your terminal and run:
+
+```bash
+npx bielgennaro
+```
+
 
 <!--Intro start-->
 - 🔭 I’m currently working on **C#, Typescript, Javascript, Nodejs and React applications!**
