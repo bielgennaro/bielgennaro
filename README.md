@@ -25,13 +25,11 @@ npx bielgennaro
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **C#, Typescript, Javascript, Nodejs and React applications!**
+- 🔭 I’m currently working on **C#, Javascript, Nodejs and React applications!**
 
-- 🌱 I’m a backend dev currently learning **how to be a good fullstack dev, like a jedi!!**
+- 🌱 Actually working as a fullstack developer at Envvio - Enhanced Web Vision!
 
-- ☁️ I've keen interest in mobile development. So, I'm currently learning **React Native**
-
-- 💬 Ask me about Anything, I'll do my best to help you
+- ☁️ I've keen interest in low level development. So, I'm currently learning **Rust**
 
 - 📫 Feel free to reach me out **zirondigabriel@gmail.com**
 <!--Intro end-->
@@ -72,7 +70,7 @@ npx bielgennaro
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,dotnet,angular,cs,java,js,linux,postgres,nodejs,ts&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,docker,dotnet,angular,cs,java,js,rust,linux,postgres,nodejs,ts&perline=12" />
   </a>
 </p>
 
