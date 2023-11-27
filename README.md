@@ -25,7 +25,7 @@ npx bielgennaro
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **C#, Javascript, Nodejs and React applications!**
+- 🔭 I’m currently working on **C#, Javascript, Nodejs and React Native applications!**
 
 - 🌱 Actually working as a fullstack developer at Envvio - Enhanced Web Vision!
 
