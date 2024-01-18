@@ -9,15 +9,7 @@
   </ul>
 </div>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">Types is life</h3></summary>
-  </ul>
-</div>
-
-To connect with me, open your terminal and run:
+Open your terminal and run this, trust me it’s gonna be funny:
 
 ```bash
 npx bielgennaro
