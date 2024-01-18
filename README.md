@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Gabriel</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, i'm Gabriel</h1></summary>
   </ul>
 </div>
 
@@ -13,7 +13,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">It works on my machine!</h3></summary>
+    <summary><h3 style="display: inline-block">Types is life</h3></summary>
   </ul>
 </div>
 
@@ -27,9 +27,9 @@ npx bielgennaro
 <!--Intro start-->
 - 🔭 I’m currently working on **C#, Javascript, Nodejs and React Native applications!**
 
-- 🌱 Actually working as a fullstack developer at Envvio - Enhanced Web Vision!
+- 🌱 Actually working as a fullstack developer at Envvio!
 
-- ☁️ I've keen interest in low level development. So, I'm currently learning **Rust and Go**
+- ☁️ I've keen interest in low level development. So, I'm currently learning **Rust** in my free time
 
 - 📫 Feel free to reach me out **zirondigabriel@gmail.com**
 <!--Intro end-->
@@ -64,13 +64,13 @@ npx bielgennaro
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies that i have some knowledge👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,dotnet,angular,cs,java,js,rust,linux,postgres,nodejs,ts&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,docker,go,dotnet,angular,cs,java,js,rust,linux,postgres,nodejs,ts&perline=12" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ npx bielgennaro
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect with me🤝</h2></summary>
   </ul>
 </div>
 
