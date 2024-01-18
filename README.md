@@ -29,7 +29,7 @@ npx bielgennaro
 
 - 🌱 Actually working as a fullstack developer at Envvio - Enhanced Web Vision!
 
-- ☁️ I've keen interest in low level development. So, I'm currently learning **Rust**
+- ☁️ I've keen interest in low level development. So, I'm currently learning **Rust and Go**
 
 - 📫 Feel free to reach me out **zirondigabriel@gmail.com**
 <!--Intro end-->
