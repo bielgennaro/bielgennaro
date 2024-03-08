@@ -19,8 +19,6 @@ npx bielgennaro
 <!--Intro start-->
 - 🔭 I’m currently working on **C#, Javascript, Nodejs and React Native applications!**
 
-- 🌱 Actually working as a fullstack developer at Envvio!
-
 - ☁️ I've keen interest in low level development. So, I'm currently learning **Rust** in my free time
 
 - 📫 Feel free to reach me out **zirondigabriel@gmail.com**
