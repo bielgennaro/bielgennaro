@@ -60,7 +60,7 @@ npx bielgennaro
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,go,dotnet,angular,cs,java,js,rust,linux,postgres,nodejs,ts&perline=13" />
+    <img src="https://skillicons.dev/icons?i=git,docker,go,dotnet,angular,cs,java,ruby,js,rust,linux,postgres,nodejs,ts&perline=14" />
   </a>
 </p>
 
