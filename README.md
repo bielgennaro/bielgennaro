@@ -1,9 +1,12 @@
 <h1>Hello world!</h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   My name is Gabriel, I'm 21 years old and I'm a fullstack developer currently working at Carga Online!
 </p>
+<div style="display: inline_block"><br>
+  	<img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,postgres,linux,nodejs,adonis,nest,react,redux,vite,next,vercel,git,nginx,postman,arch,dotnet,tailwind,unity&perline=25&theme=dark" />
+</div> 
+</br>
 
 <p align="left">
   Reach me:
@@ -18,7 +21,3 @@
 
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
-
-<div style="display: inline_block"><br>
-  	<img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,postgres,linux,nodejs,adonis,nest,react,redux,vite,next,vercel,git,nginx,postman,arch,dotnet,tailwind,unity&perline=25&theme=dark" />
-</div> 
