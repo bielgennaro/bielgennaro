@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  My name is Gabriel, I'm 21 years old and I'm a fullstack developer currently working on TypeScript!
+  My name is Gabriel, I'm 21 years old and I'm a fullstack developer currently working at Carga Online!
 </p>
 
 <p align="left">
