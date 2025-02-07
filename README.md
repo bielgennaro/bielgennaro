@@ -3,9 +3,9 @@
 <p align="left"> 
   My name is Gabriel, I'm 21 years old and I'm a fullstack developer currently working at Carga Online!
 </p>
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   	<img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,postgres,linux,nodejs,adonis,nest,react,redux,vite,next,vercel,git,nginx,postman,arch,dotnet,tailwind,unity&perline=25&theme=dark" />
-</div> 
+</div>  -->
 </br>
 
 <p align="left">
