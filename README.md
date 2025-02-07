@@ -3,9 +3,9 @@
 <p align="left"> 
   My name is Gabriel, I'm 21 years old and I'm a fullstack developer currently working at Carga Online!
 </p>
-<!-- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   	<img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,postgres,linux,nodejs,adonis,nest,react,redux,vite,next,vercel,git,nginx,postman,arch,dotnet,tailwind,unity&perline=25&theme=dark" />
-</div>  -->
+</div> 
 </br>
 
 <p align="left">
@@ -18,6 +18,3 @@
   <a href="https://www.instagram.com/bielgennaro/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://www.instagram.com/bielgennaro/)" alt="Instagram"/></a>
 </p>
-
-
-![](./profile-3d-contrib/profile-gitblock.svg)
