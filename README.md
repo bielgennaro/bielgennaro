@@ -1,1 +1,1 @@
-shit happens
+everything will be fine
